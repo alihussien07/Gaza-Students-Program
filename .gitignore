@@ -1,0 +1,2 @@
+"venv/"  Project1 "__pycache__/"  echo "*.pyc" 
+"Project1/"  echo "__pycache__/"  echo "*.pyc" 
